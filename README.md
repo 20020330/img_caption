@@ -54,4 +54,15 @@ o	Gõ “coco 2017 dataset” vào thanh tìm kiếm
 o	Sau đó ấn vào dấu “+” của “COCO 2017 Dataset”
 
 3.	Tiến hành chạy chương trình
+
 ![11](https://github.com/20020330/img_caption/assets/85932447/6dccaa4f-127a-44ef-8daa-6a8d0228a5e6)
+
+4. Kết quả
+
+![12](https://github.com/20020330/img_caption/assets/85932447/a3a94101-4933-416d-9a0a-f18b4fd75b3b)
+
+![13](https://github.com/20020330/img_caption/assets/85932447/85071df2-7553-4bf0-a18c-f93e5076f86e)
+
+![14](https://github.com/20020330/img_caption/assets/85932447/608c8324-6d9e-4011-b96e-162137481484)
+
+
