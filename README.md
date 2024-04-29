@@ -1,5 +1,7 @@
 # img_caption
+
 HƯỚNG DẪN CÀI ĐẶT
+
 1.	Tạo dự án trên kaggle
    
 1.1.	Truy cập vào kaggle
@@ -20,6 +22,7 @@ Xác minh số điện thoại sẽ sử dụng được nhiều chức năng c�
 1.5.	Chọn accelerator cho notebook
 
 ![5](https://github.com/20020330/img_caption/assets/85932447/68217801-be86-4fca-8e4c-c69052f593c4)
+
 Ở đây chọn GPU 100
 
 2.	Dataset
@@ -38,6 +41,7 @@ Sau đó chọn “Create” và chờ đợi quá trình đưa data vào.
 Vì dataset coco 2017 có một dung lượng lớn (27GB) nên sẽ dùng dataset có sẵn trên kaggle để đỡ tốn nhiều thời gian.
 
 o	Chọn “Add Input”
+
 ![9](https://github.com/20020330/img_caption/assets/85932447/c73cd7f9-ad83-4e98-87ee-0625ce91c4ff)
 
 o	Gõ “coco 2017 dataset” vào thanh tìm kiếm
