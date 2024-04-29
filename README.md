@@ -7,12 +7,15 @@ HƯỚNG DẪN CÀI ĐẶT
 1.1.	Truy cập vào kaggle
 
 ![1](https://github.com/20020330/img_caption/assets/85932447/52cc6955-ddaa-4f88-8513-0cce7a36a210)
+
 1.2.	Tạo tài khoản kaggle
 
 ![2](https://github.com/20020330/img_caption/assets/85932447/d507b04e-b6ef-44fa-9fb9-96cb83616b99)
+
 1.3.	Xác minh số điện thoại
 
 ![3](https://github.com/20020330/img_caption/assets/85932447/b9559f00-dfdc-49ea-8069-3e940c3cf749)
+
 Xác minh số điện thoại sẽ sử dụng được nhiều chức năng của kaggle hơn.
 
 1.4.	Tạo một notebook mới
